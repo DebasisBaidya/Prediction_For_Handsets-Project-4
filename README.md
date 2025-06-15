@@ -7,9 +7,6 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Used-orange?logo=python&logoColor=white)](https://xgboost.readthedocs.io/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Used-blue?logo=python&logoColor=white)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Used-orange?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white)](mailto:speak2debasis@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
 
 ---
 
